@@ -1,0 +1,4 @@
+spring:
+  ignite:
+    enabled: true
+    clientMode: true
